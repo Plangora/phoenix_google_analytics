@@ -1,4 +1,4 @@
-# Integrate Google Analytics with Phoenix
+# Google Analytics Runtime Configuration
 
 To start your Phoenix server:
 

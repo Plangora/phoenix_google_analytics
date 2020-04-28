@@ -8,7 +8,9 @@
 use Mix.Config
 
 config :analytics,
-  ecto_repos: [Analytics.Repo]
+  ecto_repos: [Analytics.Repo],
+  env: Mix.env(),
+  ga_id: System.get_env("GA_ID", "123")
 
 # Configures the endpoint
 config :analytics, AnalyticsWeb.Endpoint,
