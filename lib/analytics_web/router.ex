@@ -18,6 +18,7 @@ defmodule AnalyticsWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/no-index", PageController, :no_index
   end
 
   # Other scopes may use custom stacks.

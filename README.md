@@ -1,4 +1,4 @@
-# Google Analytics Runtime Configuration
+# Block Google Indexing
 
 To start your Phoenix server:
 
@@ -8,7 +8,7 @@ To start your Phoenix server:
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ## Reference Video
-[https://youtu.be/fHFZCSf_Jzw](https://youtu.be/fHFZCSf_Jzw)
+[https://youtu.be/yNXOJwa4lzI](https://youtu.be/yNXOJwa4lzI)
 
 ## Learn more
 
